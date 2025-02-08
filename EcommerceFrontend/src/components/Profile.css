@@ -1,0 +1,26 @@
+/* div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+} */
+.container{
+    border-radius: 35px;
+    box-shadow: 5px 5px 5px  #888888;
+}
+.productContainers{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.margin-top-10{
+    margin-top: 100px;
+}
+.margin-top-5{
+    margin-top: 5%;
+}
+.change{
+    color: blue;
+}
+.change:hover{
+    cursor: pointer;
+}
